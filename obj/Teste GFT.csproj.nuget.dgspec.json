@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\Teste GFT.csproj": {}
+    "C:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\Teste GFT.csproj": {}
   },
   "projects": {
-    "c:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\Teste GFT.csproj": {
+    "C:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\Teste GFT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\Teste GFT.csproj",
+        "projectUniqueName": "C:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\Teste GFT.csproj",
         "projectName": "Teste GFT",
-        "projectPath": "c:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\Teste GFT.csproj",
+        "projectPath": "C:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\Teste GFT.csproj",
         "packagesPath": "C:\\Users\\irani\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\obj\\",
+        "outputPath": "C:\\Users\\irani\\OneDrive\\Documentos\\Teste GFT\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Visual 2019 Componentes\\NuGetPackages"
